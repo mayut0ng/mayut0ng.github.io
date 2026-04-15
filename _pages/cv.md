@@ -20,15 +20,15 @@ Work experience
 * Aug-Nov 2025: Fixed income Intern
   * Tebon Securities (Shanghai)
   * Duties included: Due diligence
-  * Supervisor: Professor Git
+  * Supervisor: Monitor Li
 * May-Jun 2025: Research and consulting Intern
   * Braverman (Singapore)
-  * Duties included: Enterprise data analysis
-  * Supervisor: Professor GitSkills
+  * Duties included: Enterprise strategy analysis
+  * Supervisor: Senior Partner:Alex,Wang
 * Jan-Apr 2025: Real estate Investment Intern
   * Springer Capital (Chicago remote)
   * Duties included: Data collection and analysis 
-  * Supervisor: Professor
+  * Supervisor: Investment Director:Isaac Rosenthal
 
 GitSkills
 ======
