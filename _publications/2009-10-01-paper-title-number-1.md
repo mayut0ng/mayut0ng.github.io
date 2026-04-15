@@ -2,9 +2,9 @@
 title: "The spatial ripples and driving mechanism of the LGFV credit spreads under the Yangtze River Delta Urban Agglomeration"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2026-04-15-The spatial ripples and driving mechanism of the LGFV credit spreads under the Yangtze River Delta Urban Agglomeration
 excerpt: 'SSCI JCR:Q1 IF:4.2'
-date: coming soon
+date: 2026-04-15
 venue: 'Regional studies'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
