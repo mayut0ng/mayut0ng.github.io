@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <br/><img src='/images/Fig.14.png'>"
+title: "Ma et al.(2026)"
+excerpt: "INLA-SPDE method <br/><img src='/images/Fig.14.png'>"
 collection: portfolio
 ---
 
