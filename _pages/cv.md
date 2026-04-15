@@ -19,16 +19,19 @@ Work experience
 ======
 * Aug-Nov 2025: Fixed income Intern
   * Tebon Securities (Shanghai)
-  * Duties included: Tagging issues
+  * Duties included: Due diligence
   * Supervisor: Professor Git
 * May-Jun 2025: Research and consulting Intern
   * Braverman (Singapore)
-  * Duties included: Tagging issues
+  * Duties included: Enterprise data analysis
   * Supervisor: Professor GitSkills
 * Jan-Apr 2025: Real estate Investment Intern
   * Springer Capital (Chicago remote)
-  * Duties included: Tagging issues
-  * Supervisor: Professor GitSkills======
+  * Duties included: Data collection and analysis 
+  * Supervisor: Professor
+
+GitSkills
+======
 * Stata
 * Pycharm
 * Origin
