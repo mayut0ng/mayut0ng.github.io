@@ -3,9 +3,9 @@ title: "Portfolio 1"
 collection: portfolio
 type: "Undergraduate project"
 permalink: /portfolio/portfolio-1
-date: 2024-01-01
+date: 2026-04-15
 image: 
-  src: /_portfolio/Fig.14.png
+  src: /images/Fig.14.png
   alt: "Fig.14 description"
 excerpt: "Short description of the project."
 ---
