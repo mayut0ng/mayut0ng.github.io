@@ -5,7 +5,7 @@ type: "Undergraduate project"
 permalink: /portfolio/portfolio-1
 date: 2024-01-01
 image: 
-  src: /images/Fig.14.png
+  src: /_portfolio/Fig.14.png
   alt: "Fig.14 description"
 excerpt: "Short description of the project."
 ---
