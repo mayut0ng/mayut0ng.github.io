@@ -1,42 +1,14 @@
-/* 背景虚化效果 */
+/* 强制背景原图 */
 body {
-  background: url('/images/22.png') no-repeat center center fixed;
-  background-size: cover;
-  position: relative;
+  background: url('/images/bg.png') no-repeat center center fixed !important;
+  background-size: cover !important;
 }
 
-/* 半透明遮罩层（产生毛玻璃/虚化感） */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  z-index: -1;
-}
-
-/* 让内容区域有轻微的背景色以保证可读性 */
+/* 内容区半透明白底 */
 .page__content,
 .archive,
-.publication,
-.talk,
-.teaching,
-.portfolio {
-  background: rgba(255, 255, 255, 0.6);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
+.sidebar {
+  background: rgba(255, 255, 255, 0.85) !important;
   border-radius: 12px;
   padding: 20px;
-}
-
-/* 侧边栏也加一点透明效果 */
-.sidebar {
-  background: rgba(255, 255, 255, 0.5);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-  border-radius: 8px;
 }
