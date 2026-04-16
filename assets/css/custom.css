@@ -1,6 +1,6 @@
 /* 强制背景原图 */
 body {
-  background: url('/images/bg.png') no-repeat center center fixed !important;
+  background: url('/images/bg2.png') no-repeat center center fixed !important;
   background-size: cover !important;
 }
 
