@@ -12,7 +12,7 @@ redirect_from:
 | *Papers* | *Work experience* | *More* |
 
 
-I am an undergraduate student from Northeastern University and going to study in UCL. I expect to study for Ph.D in 27Fall.
+I am a graduate student in University College London majoring Urban Economic Development. I expect to study for PhD in 27Fall.
 
 ---
 
